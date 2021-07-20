@@ -1,1 +1,3 @@
 # SimpleCookingGame
+
+![](Screenshots/GameScreenshot.png)
