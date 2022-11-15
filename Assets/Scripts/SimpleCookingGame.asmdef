@@ -1,0 +1,17 @@
+{
+    "name": "SimpleCookingGame",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a65d9a73e86e8a16094732b640e510ef",
+        "GUID:3d8b5102db7efb042b38283fdff639f8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
